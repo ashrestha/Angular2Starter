@@ -1,6 +1,10 @@
 # Angular2Starter
 An easy Angular2 starter project
 
+PREREQUISITES
+1) nodejs
+2) npm
+
 Download the files
 Run "npm install"
 Then run "npm start"
